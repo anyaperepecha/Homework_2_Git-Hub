@@ -1,1 +1,1 @@
-# Homework_2_Git-Hub
+# Homework_2_GitHub
